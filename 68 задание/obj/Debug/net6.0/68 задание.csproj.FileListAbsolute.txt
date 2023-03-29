@@ -1,0 +1,15 @@
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\bin\Debug\net6.0\68 задание.exe
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\bin\Debug\net6.0\68 задание.deps.json
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\bin\Debug\net6.0\68 задание.runtimeconfig.json
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\bin\Debug\net6.0\68 задание.dll
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\bin\Debug\net6.0\68 задание.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.csproj.AssemblyReference.cache
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.AssemblyInfoInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.AssemblyInfo.cs
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.csproj.CoreCompileInputs.cache
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.dll
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\refint\68 задание.dll
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.pdb
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\68 задание.genruntimeconfig.cache
+C:\Users\mecht\OneDrive\Рабочий стол\Последний семинар\68 задание\obj\Debug\net6.0\ref\68 задание.dll
